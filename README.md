@@ -1,6 +1,6 @@
 ﻿# ML coding
 In this repo I'd build a few examples to show how various ML algorithms works.
-
+WOW
 ### Classical Machine learning
 Relevant algorithms:
 - ✅Linear regression/logistic regreesion
