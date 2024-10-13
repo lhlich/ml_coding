@@ -1,3 +1,4 @@
 # py env for gpu training/inference
 myenv
+nlp/vec_db
 .gitignore
