@@ -1,6 +1,7 @@
 # py env for gpu training/inference
 myenv
 nlp/vec_db
+deep_learning/tb_demo
 temp.md
 playground.ipynb
 .gitignore
